@@ -6,6 +6,20 @@ Rapid Repair also allows new servicemen to create accounts to promote and sell t
 ### 2. Features
 Rapid Repair includes the following features:
 
+User features:
+Registration and login of users 
+Using the search bar to type desired service/servicemen
+Select a service from the predefined list of services 
+Use the filter function to filter out what services do not comply with the user's preferences
+Book the service
+
+Servicemen features:
+Registration and login of servicemen
+Add, update, delete servicemen profile
+
+
+
+
 
 ### 3. User Interface
 Rapid Repair includes the following pages:
