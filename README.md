@@ -70,6 +70,15 @@ Login encompasses the following components:
 - Confirmation button to finalize the login
 - "Forgot Password" button for easy password recovery
 
+  4.3. Service Details Page 
+Once users click on one of the services listed on the Home Page, they are directed to the Service Details Page.
+This page provides customers with comprehensive information about the service, including a description, photos showcasing previous work, and any relevant subcategories. Customers can learn about the service duration and other details. Users can browse through available services, identifying those that best match their specific tasks. They can compare these services to similar ones, enabling them to make a well-informed decision before finalizing their choice.
+
+The page includes the following navigations: 
+* Obvious navigation back to the Home Page where all services are listed and 
+* A prominent "Book This Service" button, directing users to the Service Booking Page 
+
+
 ### 5. Technical Requirements
 
 ### 6. Out of scope
