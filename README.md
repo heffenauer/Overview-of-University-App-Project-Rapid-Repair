@@ -46,8 +46,6 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 ### 4. Functionality
 
-### 4. Functionality
-
 
 4.1. Home Page
 
