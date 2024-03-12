@@ -71,7 +71,7 @@ Login encompasses the following components:
 4.2.1 Profile Creation Page
 
 Registration encompasses the following components:
-- Input fields for name, last name, email, address, city, phone number, password, and confirmation of password
+- Input fields for name, last name, email, country, city, address, phone number, password, and confirmation of password
 - A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
 
 4.3. Service Details Page 
