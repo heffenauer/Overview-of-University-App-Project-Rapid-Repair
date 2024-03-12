@@ -32,7 +32,7 @@ Servicemen Features
 
 
 
-### 3. User Interface
+### 3. User Interface and Pages
 
 Rapid Repair features a user-friendly interface with the following main pages:
 
