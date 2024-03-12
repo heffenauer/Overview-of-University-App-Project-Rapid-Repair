@@ -54,7 +54,7 @@ Home Page provides comprehensive information about our
 - Partners
 - FAQ
 - Accomplishments
-- 
+
 User Interface elements included on the home page are: 
 - Search Bar Functionality: Easily locate specific services or service providers by name.
 - Comprehensive Service Listing: Explore our complete list of services where each service listed is clickable, leading users to service pages iwhere they can learn more about the service and proceed with booking if desired.
