@@ -96,6 +96,10 @@ This includes
 
 ### 5. Technical Requirements
 
+The Rapid Repair is built using the following technologies:
+* Backend: Java, Spring, PostgreSQL 
+* Frontend: Angular 
+
 ### 6. Out of scope
 
 * Payment Processing: Currently, users can only book the service they desire and pay the servicemen in cash in person. However, handling actual payment transactions, such as credit card processing or integrating with payment gateways, is beyond the scope of this project.
