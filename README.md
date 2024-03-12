@@ -43,6 +43,9 @@ Rapid Repair features a user-friendly interface with the following main pages:
 * User Profile Page:
 * User Profile Management Page:
 
+3.1. Visual Site Mockup
+
+3.2. Sitemap
 
 ### 4. Functionality
 
