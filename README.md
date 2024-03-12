@@ -110,11 +110,13 @@ Upon login, the user will be kept on the home page, where if they choose to pres
 
 4.2.1 Profile Creation Page
 
-Registration encompasses the following components:
+Registration process:
 - Input fields for name, last name, email, country, city, address, phone number, password, and confirmation of password
-- A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
 
-The Registration Page will consist of a few steps, depending on whether the user creating the profile wants to create a User profile or a Serviceman Profile. This option will be preseneted for the user on the first step of the registration as a checkbox, i.e. Serviceman Profile - [x]
+Depending on whether the user creating the profile wants to create a User profile or a Serviceman Profile. This option will be preseneted for the user on the first step of the registration as a checkbox, 
+i.e.   Serviceman Profile - [x]
+
+- A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
 
 4.3. Service Details Page 
 
