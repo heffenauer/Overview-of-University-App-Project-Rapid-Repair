@@ -73,3 +73,9 @@ Login encompasses the following components:
 ### 5. Technical Requirements
 
 ### 6. Out of scope
+
+* Payment Processing: Currently, users can only book the service they desire and pay the servicemen in cash in person. However, handling actual payment transactions, such as credit card processing or integrating with payment gateways, is beyond the scope of this project.
+
+* Real-Time Chat: Implementing real-time chat would enable customers to communicate directly and quickly with servicemen within the app.
+
+* Notification System: Users can receive notifications confirming their service bookings, providing updates on the serviceman's estimated arrival time. Additionally, they can be notified about ongoing sales or promotions within the app, ensuring they stay informed about potential discounts or special offers.
