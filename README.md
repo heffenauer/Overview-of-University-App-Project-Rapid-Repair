@@ -77,7 +77,13 @@ Registration Successful Page (Part 4)
 3.2. Sitemap
 
 
-![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/25596638-1050-4a14-9611-bbe58f32bb51)
+<details> 
+  <summary> Original sitemap (OLD)</summary>
+  ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/25596638-1050-4a14-9611-bbe58f32bb51)
+</details>
+
+![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/a52af353-1058-431e-a423-2ad2d0797650)
+
 
 
 ### 4. Functionality
