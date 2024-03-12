@@ -37,11 +37,11 @@ Servicemen Features
 Rapid Repair features a user-friendly interface with the following main pages:
 
 * Home Page:
-* Services Details Page
-* Registration and Login Page
-* Service Booking Page
-* User Profile Page
-* User Profile Management Page
+* Services Details Page:
+* Registration and Login Page:
+* Service Booking Page:
+* User Profile Page:
+* User Profile Management Page:
 
 
 ### 4. Functionality
