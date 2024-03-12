@@ -130,13 +130,14 @@ The page includes the following navigations:
 
 4.4 Service Booking Page
 
+ If users are already logged into their account, they can proceed with booking. However, if they aren't logged in, they are redirected to the Login/Registration Page where they can either create a new account or log in. Once logged in or registered, users can move back through the service list and perform the booking.
+
 After selecting the appropriate service, users are directed to the Service Booking Page where they can enter booking information. 
 This includes 
 * Input field for the desired date of the service
 * Input field for the desired time for the service to be completed
 * Input field for any special requests users might have
 
- If users are already logged into their account, they can proceed with booking. However, if they aren't logged in, they are redirected to the Login/Registration Page where they can either create a new account or log in. Once logged in or registered, users can continue with the booking process.
 
 ### 5. Technical Requirements
 
