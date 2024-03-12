@@ -8,21 +8,21 @@ Rapid Repair includes the following features:
 
 User features
 
-*Registration and Login,
+* Registration and Login,
 
-*Search Bar Functionality,
+* Search Bar Functionality,
 
-*Review Functionality,
+* Review Functionality,
 
-*Filter Function,
+* Filter Function,
 
-*Booking Services,
+* Booking Services,
 
-*Serviceman booking management.
+* Serviceman booking management.
 
 Servicemen Features
 
-*Profile Management.
+* Profile Management.
 
 
 
