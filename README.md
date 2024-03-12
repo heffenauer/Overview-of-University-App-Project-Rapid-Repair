@@ -76,6 +76,7 @@ Registration Successful Page (Part 4)
 
 3.2. Sitemap
 
+
 ### 4. Functionality
 
 
