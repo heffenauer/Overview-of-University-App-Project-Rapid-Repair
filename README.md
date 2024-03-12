@@ -86,12 +86,14 @@ Registration Successful Page (Part 4)
 4.1. Home Page
 
 Home Page provides comprehensive information about our 
+
 - About Us
 - Partners
 - FAQ
 - Accomplishments
 
 User Interface elements included on the home page are: 
+
 - Search Bar Functionality: Easily locate specific services or service providers by name.
 - Comprehensive Service Listing: Explore our complete list of services where each service listed is clickable, leading users to service pages iwhere they can learn more about the service and proceed with booking if desired.
 
@@ -103,6 +105,8 @@ Login encompasses the following components:
 - Input fields for email and password
 - Confirmation button to finalize the login
 - "Forgot Password" button for easy password recovery
+
+Upon login, the user will be kept on the home page, where if they choose to press their user icon on the top right of the page, they will be redirected to the User/Serviceman Profile Page. On this Page they will be presented with their personal information that will be greyed out to avoid accidental changes, they can opt to enter edit mode which will refresh the page and allow for changes to be made in the user information fields. On this User/Serviceman Profile Page there will also be a link or button that will allow the User to access the Service Management Page, on which the User will be able to leave a review on completed tasks or to cancel an existing task. If the User is a Serviceman this page will allow them to cancel their reserved appointment. On the User/Serviceman profile page, if the User is a Serviceman, there will be presented their aggregated review score, a grade that the Serviceman will be able to see. They can use this value to determine whether their services are generally of good quality or if they should perform better in the future.
 
 4.2.1 Profile Creation Page
 
