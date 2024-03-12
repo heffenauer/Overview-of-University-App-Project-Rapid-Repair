@@ -61,23 +61,38 @@ User Interface elements included on the home page are:
 
 4.2. Registration/Login
 
-Registration encompasses the following components:
-- Input fields for name, last name, email, address, city, phone number, password, and confirmation of password
-- A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
+Users have the option to log in to an existing account or create a new one. Opting to create a new account directs them to the Profile Creation Page, while choosing to log in to an existing account keeps them on the current page.
 
 Login encompasses the following components:
 - Input fields for email and password
 - Confirmation button to finalize the login
 - "Forgot Password" button for easy password recovery
 
-  4.3. Service Details Page 
+4.2.1 Profile Creation Page
+
+Registration encompasses the following components:
+- Input fields for name, last name, email, address, city, phone number, password, and confirmation of password
+- A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
+
+4.3. Service Details Page 
+
 Once users click on one of the services listed on the Home Page, they are directed to the Service Details Page.
 This page provides customers with comprehensive information about the service, including a description, photos showcasing previous work, and any relevant subcategories. Customers can learn about the service duration and other details. Users can browse through available services, identifying those that best match their specific tasks. They can compare these services to similar ones, enabling them to make a well-informed decision before finalizing their choice.
 
 The page includes the following navigations: 
 * Obvious navigation back to the Home Page where all services are listed and 
-* A prominent "Book This Service" button, directing users to the Service Booking Page 
+* A prominent "Book This Service" button, directing users to the Service Booking Page
 
+
+4.4 Service Booking Page
+
+After selecting the appropriate service, users are directed to the Service Booking Page where they can enter booking information. 
+This includes 
+* Input field for the desired date of the service
+* Input field for the desired time for the service to be completed
+* Input field for any special requests users might have
+
+ If users are already logged into their account, they can proceed with booking. However, if they aren't logged in, they are redirected to the Login/Registration Page where they can either create a new account or log in. Once logged in or registered, users can continue with the booking process.
 
 ### 5. Technical Requirements
 
