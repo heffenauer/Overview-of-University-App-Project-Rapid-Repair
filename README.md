@@ -46,6 +46,32 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 ### 4. Functionality
 
+### 4. Functionality
+
+
+4.1. Home Page
+
+Home Page provides comprehensive information about our 
+- About Us
+- Partners
+- FAQ
+- Accomplishments
+- 
+User Interface elements included on the home page are: 
+- Search Bar Functionality: Easily locate specific services or service providers by name.
+- Comprehensive Service Listing: Explore our complete list of services where each service listed is clickable, leading users to service pages iwhere they can learn more about the service and proceed with booking if desired.
+
+4.2. Registration/Login
+
+Registration encompasses the following components:
+- Input fields for name, last name, email, address, city, phone number, password, and confirmation of password
+- A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
+
+Login encompasses the following components:
+- Input fields for email and password
+- Confirmation button to finalize the login
+- "Forgot Password" button for easy password recovery
+
 ### 5. Technical Requirements
 
 ### 6. Out of scope
