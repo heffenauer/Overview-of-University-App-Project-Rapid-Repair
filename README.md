@@ -91,16 +91,19 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 
 <details> 
-  <summary> Original sitemap (OLD)</summary>
+  <summary> Original sitemaps (OLD)</summary>
   
-  ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/25596638-1050-4a14-9611-bbe58f32bb51)
+  ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/25596638-1050-4a14-9611-bbe58f32bb51)\
+
+  ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/a52af353-1058-431e-a423-2ad2d0797650)
   
 </details>
 
 <details>
-<summary> Updated Sitemap </summary>
+<summary>Updated Sitemap (with links)</summary>
 
-![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/a52af353-1058-431e-a423-2ad2d0797650)
+![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/76545795-d722-45a2-affd-cf2ab2b13a68)
+
 </details>
 
 
