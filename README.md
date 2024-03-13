@@ -45,65 +45,49 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 3.1. Visual Site Mockup
 
-Desktop Home Page Mockup
-
 <details>
+  <summary>Desktop Home Page Mockup</summary>
   
   ![Desktop](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2443a537-591c-455c-9eda-a93eb06aaf9e)
 </details>
 
-
-Mobile Home Page Mockup
-
 <details>
-
+  <summary>Mobile Home Page Mockup</summary>
+  
   ![Mobile](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/9f319df0-2900-45e9-879a-20a4611594ae)
 </details>
 
-
-
-Login Page 
-
 <details>
+<summary>Login Page</summary>
 
   ![Login](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1505fc5e-2264-45f6-951d-fcd93bd691ed)
 </details>
 
-
-
-Register Page Part 1
-
 <details>
+<summary>Register Page Part 1</summary>
 
   ![Register PART1](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/c7e69eb7-0f8e-4422-b819-9bd991098c2f)
 </details>
 
-
-
-Register Page Part 2
-
 <details>
+  <summary>Register Page Part 2</summary>
 
   ![Register PART2](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2f8da441-940a-4f2e-97b6-92ffea43a219)
 </details>
 
 
-
-Register Page Part 3
-
 <details>
+  <summary>Register Page Part 3</summary>
 
   
 ![Register PART3](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1f8d4542-88c0-4b74-bacf-ac7814818193)
 </details>
 
 
-Registration Successful Page (Part 4)
-
 <details>
+<summary>Registration Successful Page (Part 4)</summary>
 
   ![Register PART4](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/3fb054d1-551c-4083-a703-27f26ffea4d8)
-
 </details>
 
 
@@ -118,10 +102,11 @@ Registration Successful Page (Part 4)
   
 </details>
 
+<details>
 <summary> Updated Sitemap </summary>
 
 ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/a52af353-1058-431e-a423-2ad2d0797650)
-
+</details>
 
 
 ### 4. Functionality
