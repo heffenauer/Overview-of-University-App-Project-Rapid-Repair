@@ -47,31 +47,65 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 Desktop Home Page Mockup
 
-![Desktop](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2443a537-591c-455c-9eda-a93eb06aaf9e)
+<details>
+  
+  ![Desktop](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2443a537-591c-455c-9eda-a93eb06aaf9e)
+</details>
+
 
 Mobile Home Page Mockup
 
-![Mobile](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/9f319df0-2900-45e9-879a-20a4611594ae)
+<details>
+
+  ![Mobile](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/9f319df0-2900-45e9-879a-20a4611594ae)
+</details>
+
+
 
 Login Page 
 
-![Login](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1505fc5e-2264-45f6-951d-fcd93bd691ed)
+<details>
+
+  ![Login](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1505fc5e-2264-45f6-951d-fcd93bd691ed)
+</details>
+
+
 
 Register Page Part 1
 
-![Register PART1](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/c7e69eb7-0f8e-4422-b819-9bd991098c2f)
+<details>
+
+  ![Register PART1](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/c7e69eb7-0f8e-4422-b819-9bd991098c2f)
+</details>
+
+
 
 Register Page Part 2
 
-![Register PART2](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2f8da441-940a-4f2e-97b6-92ffea43a219)
+<details>
+
+  ![Register PART2](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/2f8da441-940a-4f2e-97b6-92ffea43a219)
+</details>
+
+
 
 Register Page Part 3
 
+<details>
+
+  
 ![Register PART3](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1f8d4542-88c0-4b74-bacf-ac7814818193)
+</details>
+
 
 Registration Successful Page (Part 4)
 
-![Register PART4](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/3fb054d1-551c-4083-a703-27f26ffea4d8)
+<details>
+
+  ![Register PART4](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/3fb054d1-551c-4083-a703-27f26ffea4d8)
+
+</details>
+
 
 
 3.2. Sitemap
@@ -83,6 +117,8 @@ Registration Successful Page (Part 4)
   ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/25596638-1050-4a14-9611-bbe58f32bb51)
   
 </details>
+
+<summary> Updated Sitemap </summary>
 
 ![sitemap](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/a52af353-1058-431e-a423-2ad2d0797650)
 
