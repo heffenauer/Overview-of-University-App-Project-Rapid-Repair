@@ -5,8 +5,6 @@ Rapid Repair is an app designed to assist users in quickly finding servicemen fo
 ## 2. Features
 Rapid Repair includes the following features:
 
-User features
-
 * Registration and Login
   - Users can create accounts or log in using existing credentials to access the app's features.
 
@@ -25,10 +23,8 @@ User features
 * Booking Management
   - Users and servicemen can manage their booked services and view appointment details.
 
-Servicemen Features
-
 * Profile Management
-  - Servicemen can create and manage their profiles, including adding services offered, availability, pricing, and portfolio showcasing their work.
+  - Servicemen and users can create and manage their profiles, including adding services offered, availability, pricing, and portfolio showcasing their work for the servicemen and updating their personal information for the users. 
 
 
 
