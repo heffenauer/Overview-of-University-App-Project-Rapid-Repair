@@ -22,7 +22,7 @@ User features
 * Booking Services
   - Users can view available servicemen, check their profiles and ratings, and book services directly through the app.
 
-* Serviceman booking management
+* Booking Management
   - Users and servicemen can manage their booked services and view appointment details.
 
 Servicemen Features
