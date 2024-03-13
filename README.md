@@ -142,6 +142,7 @@ Depending on whether the user creating the profile wants to create a User profil
 i.e.   Serviceman Profile - [x]
 
 - A confirmation button to finalize the creation of the profile, which triggers a popup in case any input field is filled incorrectly
+- 
 
 ### 4.3. Service Details Page 
 
@@ -153,7 +154,7 @@ The page includes the following navigations:
 * A prominent "Book This Service" button, directing users to the Service Booking Page
 
 
-### 4.4 Service Booking Page
+### 4.3.1 Service Booking Page
 
  If users are already logged into their account, they can proceed with booking. However, if they aren't logged in, they are redirected to the Login/Registration Page where they can either create a new account or log in. Once logged in or registered, users can move back through the service list and perform the booking.
 
@@ -163,10 +164,23 @@ This includes
 * Input field for the desired time for the service to be completed
 * Input field for any special requests users might have
 
-### 4.5 Service List Page
+### 4.3.2 Service List Page
 Once a user has selected a service they are intrested in they shall be redirected to the Serviceman List Page. 
 The Servicemen List Page will provide a list of all Servicemen that can be selected for the service.
+Once this process has been completed a pop-up will show up stating the service was successfuly booked and the user will be redirected back to his Profile Page where he can view his booking information.
 
+
+### 4.4 User Profile Page
+When the user logs into his account he can enter his Profile Page. On the Profile Page user can view and edit all of his information. An edit button will be assigned next to all of the information fields.
+User can also view and edit his service bookings. Viewing and editing service bookings will be done on a separate page when clicked on the link.
+
+If the user is a Serviceman, he will have almost the same functionalities as a ordinary user on the Profile Page. In addition, he can write "About Me" and "My Service" descriptions.
+
+### 4.4.1 Service Management Page
+
+When the user opens the "View your services" link, he will be redirected to the Service Management Page.
+On this page the user can view all of his current bookings, as well the previous ones. There will be also a functionality to edit reservation details or to cancel the service.
+Serviceman can also cancel their service booking, but can not edit them (for example: time slots).
 
 
 ## 5. Technical Requirements
