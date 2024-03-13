@@ -109,7 +109,7 @@ Rapid Repair features a user-friendly interface with the following main pages:
 
 ### 4.1. Home Page
 
-Home Page provides comprehensive information about our 
+Home Page provides comprehensive information about our company including the following sections
 
 - About Us
 - Partners
@@ -134,8 +134,9 @@ Upon login, the user will be kept on the home page, where if they choose to pres
 
 ### 4.2.1 Profile Creation Page
 
-Registration process:
-- Input fields for name, last name, email, country, city, address, phone number, password, and confirmation of password
+Registration process encompasses the following components:
+- Input fields for first name, last name, email, country, city, address, phone number, password, and confirmation of password
+  Upon filling out these fields(this consists of several steps in which the user will enter his information)correctly the user would be redirected to the Successfull Registartion page
 
 Depending on whether the user creating the profile wants to create a User profile or a Serviceman Profile. This option will be preseneted for the user on the first step of the registration as a checkbox, 
 i.e.   Serviceman Profile - [x]
