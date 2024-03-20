@@ -167,8 +167,8 @@ This includes
 * Input field for the desired time for the service to be completed
 * Input field for any special requests users might have
 
-### 4.3.2 Service List Page
-Once a user has selected a service they are intrested in they shall be redirected to the Serviceman List Page. 
+### 4.3.2 Servicemen List Page
+Once a user has selected a service they are intrested in they shall be redirected to the Servicemen List Page. 
 The Servicemen List Page will provide a list of all Servicemen that can be selected for the service.
 Once this process has been completed a pop-up will show up stating the service was successfuly booked and the user will be redirected back to his Profile Page where he can view his booking information.
 
