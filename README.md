@@ -48,12 +48,6 @@ Rapid Repair features a user-friendly interface with the following main pages:
 </details>
 
 <details>
-  <summary>Mobile Home Page Mockup</summary>
-  
-  ![Mobile](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/9f319df0-2900-45e9-879a-20a4611594ae)
-</details>
-
-<details>
 <summary>Login Page</summary>
 
   ![Login](https://github.com/heffenauer/rapid-repair-issues/assets/70574993/1505fc5e-2264-45f6-951d-fcd93bd691ed)
